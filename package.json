@@ -50,5 +50,8 @@
                 "kind": "hana"
             }
         }
+    },
+    "devDependencies": {
+        "@sap/ux-specification": "^1.90.11"
     }
 }
